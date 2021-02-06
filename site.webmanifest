@@ -1,0 +1,19 @@
+{
+    "name": "Animex OST",
+    "short_name": "Animex OST",
+    "icons": [
+        {
+            "src": "https://1.bp.blogspot.com/-xhjdmauOdM4/YB8nWwTN6oI/AAAAAAAAIbQ/fsMI87e7QeoRrtLX-nt9hnKXv1gr449vgCLcBGAsYHQ/s0/favicon.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "https://1.bp.blogspot.com/-xhjdmauOdM4/YB8nWwTN6oI/AAAAAAAAIbQ/fsMI87e7QeoRrtLX-nt9hnKXv1gr449vgCLcBGAsYHQ/s0/favicon.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone"
+}
